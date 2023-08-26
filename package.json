@@ -1,0 +1,17 @@
+{
+  "name": "pnpm-workspace-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "install:all": "node install-all.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18",
+    "pnpm": ">=9"
+  }
+}
